@@ -1,8 +1,8 @@
 # The Open Source Audit: Git
 
 **Course:** Open Source Software (NGMC) | VIT Bhopal University | AY 2025-26  
-**Student:** Pratyush Mathur | Registration No. 24BCE10413 
-**Email:** pratyush.24bce10413@vitbhopal.ac.in  
+**Student:** Hanu Singh Choudhary | Registration No. 24BCE10598 
+**Email:** hanu.24bce10598@vitbhopal.ac.in  
 **License:** GNU General Public License v2.0  
 **Submission Date:** 26th March 2026  
 
